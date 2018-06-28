@@ -1,0 +1,27 @@
+{
+  "name": "standard-deviation-residual",
+  "version": "1.0.0",
+  "description": "Nodejs module that calculates the standard deviation residual of a dataset",
+  "main": "index.js",
+  "dependencies": {
+    "simple-linear-regression": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversen/standard-deviation-residual.git"
+  },
+  "keywords": [
+    "stadard-deviation",
+    "standard-deviation-residual"
+  ],
+  "author": "Dennis Iversen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diversen/standard-deviation-residual/issues"
+  },
+  "homepage": "https://github.com/diversen/standard-deviation-residual#readme"
+}
